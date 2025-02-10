@@ -23,19 +23,23 @@
 สิ้นสุด 31 มีนาคม
 
 ## เทคโนโลยีที่ใช้
-Frontend
-  - HTML, CSS, JavaScript
-  - Bootstrap
-Backend
-  - Python
-Database
-  - SQLite
-AI Models 
-  - OpenCV (สำหรับจดจำใบหน้า)
-Authentication
-  - JWT (JSON Web Token) 
-Hosting
-  - Vercel
+* Frontend
+    - HTML, CSS, JavaScript
+    - Bootstrap
+* Backend
+    - Python
+    
+* Database
+    - SQLite
+    
+* AI Models 
+    - OpenCV (สำหรับจดจำใบหน้า)
+    
+* Authentication
+    - JWT (JSON Web Token)
+    
+* Hosting
+    - Vercel
 
 ## งบประมาณ
   - เซิร์ฟเวอร์และโดเมน: 3,000-6,000 บาท/ปี
