@@ -12,6 +12,7 @@
 * ฟีเจอร์สำหรับผู้ใช้ทั่วไป
   - เข้าสู่ระบบ (Login) และออกจากระบบ (Logout)
   - อัปโหลดรูปภาพ
+  - ระบบแจ้งเตือน ผ่าน LINE Messaging AP
   - ดูประวัติการเช็คชื่อ
 * ฟีเจอร์สำหรับผู้ดูแลระบบ (Admin)
   - จัดการบัญชีผู้ใช้งาน (เพิ่ม/ลบ/แก้ไขข้อมูล)
@@ -33,10 +34,10 @@
     - Python
     
 * Database
-    - SQLite
-    
-* AI Models 
-    - OpenCV (สำหรับจดจำใบหน้า)
+    - mysql
+
+* AI model
+    - OpenCV
     
 * Authentication
     - JWT (JSON Web Token)
