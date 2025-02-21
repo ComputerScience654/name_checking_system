@@ -39,9 +39,6 @@
 * AI model
     - OpenCV
     
-* Authentication
-    - JWT (JSON Web Token)
-    
 * Hosting
     - Vercel
 
